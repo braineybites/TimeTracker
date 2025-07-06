@@ -1,0 +1,10 @@
+blender:
+  version: "2.8.0+"
+extension:
+  name: "TimeTracker"
+  type: "add-on"
+  author: "OpenAI & Shushanto (BraineyBites) & EzazulHaque"
+  license: "GPL-3.0-or-later"
+  description: "Accurately tracks Blender file usage time with previous save history."
+  version: "5.2.1"
+  tags: ["productivity", "timer", "system", "tracking", "utility"]
